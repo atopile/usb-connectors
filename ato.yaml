@@ -1,4 +1,3 @@
-lib-dependencies:
-  - lib1 ^0.1.17
-  - lib2 ^0.1.17
-  - lib3 ^0.1.17
+lib-deps:
+
+
