@@ -13,6 +13,8 @@ Add to your `.ato` project:
 
 This package includes a usb-c connector.
 
+![usbc](https://assets.lcsc.com/images/lcsc/900x900/20230202_Shenzhen-Kinghelm-Elec-KH-TYPE-C-16P_C709357_front.jpg)
+
 ## Features
 
 - **USB type C connector**
@@ -21,6 +23,7 @@ This package includes a usb-c connector.
 ## Documentation & Resources
 
 - [A bit more about the CC resistors](https://hackaday.com/2023/01/04/all-about-usb-c-resistors-and-emarkers/)
+- [LCSC part number](https://www.lcsc.com/product-detail/USB-Connectors_Shenzhen-Kinghelm-Elec-KH-TYPE-C-16P_C709357.html)
 
 ## Contributing
 
