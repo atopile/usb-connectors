@@ -25,8 +25,8 @@ module USBCConn from GenericUSBConn:
     # Add CC resistors
     cc1_res = new Resistor
     cc2_res = new Resistor
-    cc1_res.value = "5.1k"
-    cc2_res.value = "5.1k"
+    cc1_res.value = 5.1k +/- 5%
+    cc2_res.value = 5.1k +/- 5%
     cc1_res.footprint = "R0402"
     cc2_res.footprint = "R0402"
 
