@@ -27,8 +27,8 @@ module USBCConn from GenericUSBConn:
     cc2_res = new Resistor
     cc1_res.value = 5.1kohms +/- 5%
     cc2_res.value = 5.1kohms +/- 5%
-    cc1_res.footprint = "R0402"
-    cc2_res.footprint = "R0402"
+    cc1_res.package = "0402"
+    cc2_res.package = "0402"
 
     conn.CC1 ~ cc1_res.p1; cc1_res.p2 ~ power.gnd
     conn.CC2 ~ cc2_res.p1; cc2_res.p2 ~ power.gnd
